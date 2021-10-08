@@ -12,11 +12,11 @@
 
 :books: Atualmente, estou em transição de carreira, estudando e aprendendo. 
 
-:outbox_tray: Metas para 2021: Criar varios projetos, postar atividades e conquistar novo emprego.
+:outbox_tray: Metas para 2021: Criar varios projetos, postar atividades e conquistar novas oportunidades.
 
  
 
-## About me
+## Sobre
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
