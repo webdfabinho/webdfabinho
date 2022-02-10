@@ -12,7 +12,7 @@
 
 :books: Atualmente, estou em transição de carreira, estudando e aprendendo. 
 
-:outbox_tray: Metas para 2021: Criar varios projetos, postar atividades e conquistar novas oportunidades.
+:outbox_tray: Metas para 2022: Criar varios projetos, postar atividades e conquistar novas oportunidades.
  
 
 ## Sobre
