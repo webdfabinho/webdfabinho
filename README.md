@@ -11,6 +11,12 @@
 <img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/check.png" />
 
+## CERTIFICAÇÕES MICROSOFT:
+
+:large_blue_diamond: AZ-900.
+
+:large_blue_diamond: MS-900.
+
 <br/> <br/>
 
 :computer: Eu estou entrando para o mundo Dev. 
