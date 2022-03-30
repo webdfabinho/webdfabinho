@@ -3,6 +3,7 @@
  
 
 ## Olá eu sou Fabio Neri!
+
 <img style="margin-right: 5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="margin-right: 5px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="margin-right: 5px" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -12,13 +13,13 @@
 
 <br/> <br/> 
 
-## CERTIFICAÇÕES MICROSOFT
+### CERTIFICAÇÕES MICROSOFT
 
 :large_blue_diamond: AZ-900.
 
 :large_blue_diamond: MS-900.
 
-<br/> <br/>
+<br/> 
 
 :computer: Eu estou entrando para o mundo Dev. 
 
