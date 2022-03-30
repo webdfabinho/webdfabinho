@@ -3,7 +3,13 @@
  
 
 ## Olá eu sou Fabio Neri!
+<img style="margin-right: 5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+<img style="margin-right: 5px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img style="margin-right: 5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/azure.png" />
+
+<img style="margin-right: 5px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  
 
 :computer: Eu estou entrando para o mundo Dev. 
@@ -13,6 +19,7 @@
 :books: Atualmente, estou em transição de carreira, estudando e aprendendo. 
 
 :outbox_tray: Metas para 2022: Criar varios projetos, postar atividades e conquistar novas oportunidades.
+
  
 
 ## Sobre
